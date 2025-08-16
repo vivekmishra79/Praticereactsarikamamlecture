@@ -1,0 +1,39 @@
+{
+"employees": [
+    {
+      "id": 1,
+      "name": "vivek",
+      "city": "rewa",
+      "email": "vivekmishrabts@gmail.com",
+      "phone": 7964545588
+    },
+    {
+      "id": 2,
+      "name": "Rahul",
+      "city": "satna",
+      "email": "Rahulsingh@gmail.com",
+      "phone": 6758429574
+    },
+    {
+      "id": 3,
+      "name": "Sujeet",
+      "city": "Pune",
+      "email": "Sujeet@gmail.com",
+      "phone": 9756374833
+    },
+    {
+      "id": 4,
+      "name": "sani",
+      "city": "banglore",
+      "email": "Sani123@gmail.com",
+      "phone": 8775438745
+    },
+    {
+      "id": 5,
+      "name": "Sid",
+      "city": "hyderabad",
+      "email": "Sid123@gmail.com",
+      "phone": 9457476835
+    }
+  ]
+}

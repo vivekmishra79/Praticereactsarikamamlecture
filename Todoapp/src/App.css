@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  margin-top: 100px;
+}
+
+input[type=text] {
+  
+   margin: auto;
+   margin-top: 30px;
+   height: 30px;
+   font-size: 20px;
+   color: blue;
+   text-align: center;
+  
+}
+
+button{
+  height: 50px;
+  font-size: 30px;
+  border-radius: 50px;
+  background-color: blue;
+  color: wheat;
+  border :2px solid blue;
+  margin-left: 30px;
+ 
+
+}
+
+ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: blue;
+}

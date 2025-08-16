@@ -1,0 +1,11 @@
+.space{
+    display: flex;
+    gap: 3rem;
+    
+}
+
+.new{
+    margin-right: 400px;
+    margin-top: 50px;
+    
+}
