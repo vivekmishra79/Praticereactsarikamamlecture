@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-    <h1 style={{textAlign:"center",marginTop:"200px"}}> Weather Application</h1>
+    <h1 style={{textAlign:"center",marginTop:"100px",color:"megenta"}}> Weather Application</h1>
     <Weathercomp/>
     </>
   )
